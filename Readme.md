@@ -13,7 +13,7 @@ It is composed by 4 containers:
 
 ## Installation
 
-1. 😀 Clone this rep.
+1. Clone this rep.
 
 2. Create the file `./.docker/.env.nginx.local` using `./.docker/.env.nginx` as template. The value of the variable `NGINX_BACKEND_DOMAIN` is the `server_name` used in NGINX.
 
